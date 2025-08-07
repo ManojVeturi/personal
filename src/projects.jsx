@@ -17,10 +17,6 @@ function Projects() {
                     </a>
                     <div class="card-content">
                         <h3 class="card-title">Tic Tac Toe</h3>
-                        <p class="card-description">
-                            Responsive website for a tech startup, featuring clean interface
-                            and fast performance.
-                        </p>
                     </div>
                 </article>
                 <article class="card" role="listitem" tabindex="0">
@@ -29,10 +25,6 @@ function Projects() {
                     </a>
                     <div class="card-content">
                         <h3 class="card-title">2048</h3>
-                        <p class="card-description">
-                            Responsive website for a tech startup, featuring clean interface
-                            and fast performance.
-                        </p>
                     </div>
                 </article>
                 <article class="card" role="listitem" tabindex="0">
@@ -41,10 +33,6 @@ function Projects() {
                     </a>
                     <div class="card-content">
                         <h3 class="card-title">sign-in clone page</h3>
-                        <p class="card-description">
-                            Responsive website for a tech startup, featuring clean interface
-                            and fast performance.
-                        </p>
                     </div>
                 </article>
                 <article class="card" role="listitem" tabindex="0">
@@ -53,10 +41,6 @@ function Projects() {
                     </a>
                     <div class="card-content">
                         <h3 class="card-title">E-Commerce</h3>
-                        <p class="card-description">
-                            Responsive website for a tech startup, featuring clean interface
-                            and fast performance.
-                        </p>
                     </div>
                 </article>
                 <article class="card" role="listitem" tabindex="0">
@@ -65,10 +49,6 @@ function Projects() {
                     </a>
                     <div class="card-content">
                         <h3 class="card-title">Youtube clone page</h3>
-                        <p class="card-description">
-                            Responsive website for a tech startup, featuring clean interface
-                            and fast performance.
-                        </p>
                     </div>
                 </article>
                 <article class="card" role="listitem" tabindex="0">
@@ -77,10 +57,6 @@ function Projects() {
                     </a>
                     <div class="card-content">
                         <h3 class="card-title">Weather App</h3>
-                        <p class="card-description">
-                            Responsive website for a tech startup, featuring clean interface
-                            and fast performance.
-                        </p>
                     </div>
                 </article>
             </div>
