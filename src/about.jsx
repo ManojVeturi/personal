@@ -20,6 +20,7 @@ function About(){
                 <h4>JavaScript</h4>
                 <h4>Git</h4>
                 <h4>React</h4>
+                <h4>Python</h4>
             </div>
         </div>
     );
