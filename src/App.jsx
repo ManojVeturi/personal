@@ -1,9 +1,9 @@
-import Header from './header.jsx'
-import Home from './home.jsx'
-import About from './about.jsx'
-import Projects from './projects.jsx'
-import Contact from './contact.jsx'
-import Footer from './footer.jsx'
+import Header from './header/Header.jsx'
+import Home from './home/Home.jsx'
+import About from './about/About.jsx'
+import Projects from './projects/Projects.jsx'
+import Contact from './contact/Contact.jsx'
+import Footer from './footer/Footer.jsx'
 
 function App() {
 
