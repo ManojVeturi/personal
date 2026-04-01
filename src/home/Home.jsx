@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import './Home.css';
 import profilePic from '../assets/MANOJ.jpg';
-import resume from '../assets/resume.pdf';
+import resume from '../assets/Resume.pdf';
 
 function Home() {
     const titles = [
